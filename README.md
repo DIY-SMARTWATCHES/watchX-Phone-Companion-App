@@ -1,9 +1,9 @@
 # Under Development (80% Completed)
 
-# Xwatch-V.3-For-watchX
+# Xwatch-v3.0-For-watchX
 Xwatch Is A Watch Face For watchX, It comes fully compatible with an included mobile app, or many common BLE UART Terminal Apps.
 
-**Features Of Xwatch V.2:**
+**Features Of Xwatch v3.0:**
 * Android & IOS App - (Under Development 90%)
 * Step Counting - Coming Soon In A Future Update
 * Wrist Wake - Coming Soon In A Future Update
