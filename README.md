@@ -28,4 +28,4 @@ Future Updates ARE Subject To Change!
 * ETA: January 1, 2024 - Deploy Apple IOS App
 * ETA: January 15, 2024 - Add Wrist Wake
 * ETA: March 1, 2024 - Add Step Counting
-**More Updates Will Follow - Any Sugestions Are Welcome On - https://community.watchx.io/t/xwatch-v-2-0-watch-face/756**
+**More Updates Will Follow - Any Sugestions Are Welcome On - https://community.watchx.io/t/xwatch-3-0-watch-face-smartphone-companion-app/790**
